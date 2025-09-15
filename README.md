@@ -28,7 +28,7 @@ Result: *Variant B did not outperform Variant A*. Conversion was nearly identica
 ## 📈 Visuals & Dashboards  
 
 *Conversion Rate by Group*  
-![Conversion Rate](image/conversion_rate_by_group.png)  
+![Conversion Rate](image/conversion_rate_by_group_clean.png)  
 
 *Conversion KPI View*  
 ![Conversion KPI](image/conversion_rate_by_group_kpi.png)  
@@ -50,10 +50,10 @@ Result: *Variant B did not outperform Variant A*. Conversion was nearly identica
 ---
 
 ## 📂 Repository Structure
-```text
+
 ab-testing-ecommerce-analysis/
 ├── data/          # Raw dataset (~294k rows)
 ├── notebook/      # Jupyter analysis with stats & funnel diagnostics
 ├── images/        # Visuals: conversion, funnel, dashboard mock
-├── docs/          # Portfolio report & 1-page executive summary
+├── Report/          # Portfolio report & 1-page executive summary
 └── README.md

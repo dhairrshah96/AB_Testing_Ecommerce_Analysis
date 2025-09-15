@@ -3,7 +3,7 @@
  Ecommerce_AB_Testing_Project  
 
 *Business Analyst / ICT Portfolio Case Study ( MAY 2023– JUL 2023)*  
-Simulated an A/B test on ~294k user sessions to evaluate whether a redesigned landing page (Variant B) outperformed the existing design (Variant A).  
+An A/B test on ~294k user sessions to evaluate whether a redesigned landing page (Variant B) outperformed the existing design (Variant A).  
 
 Result: *Variant B did not outperform Variant A*. Conversion was nearly identical (A = 12.04%, B = 11.89%), with both Z-test (p=0.893) and Chi-Square (p=0.216) confirming no statistical significance.  
 

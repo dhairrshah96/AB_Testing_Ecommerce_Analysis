@@ -30,7 +30,7 @@ Result: *Variant B did not outperform Variant A*. Conversion was nearly identica
 *Conversion Rate by Group*  
 ![Conversion Rate](image/conversion_rate_by_group_clean.png)  
 
-*Conversion KPI View*  
+*Conversion Rate by Landing Page*  
 ![Conversion KPI](image/conversion_rate_by_group_kpi.png)  
 
 *Funnel Analysis by Group*  

@@ -1,0 +1,12 @@
+,Group A,Group B,Comparison,Confidence Interval (95%)
+absolute_diff,,,-0.0015,
+chi2_p_value,,,0.215945,
+chi2_stat,,,1.531,
+conversion_rate,0.1204,0.1189,,
+conversions,17675,17467,,
+high,,,,0.0009
+low,,,,-0.0038
+n,146843,146932,,
+relative_lift_percent,,,-1.24,
+z_score,,,-1.243,
+ztest_p_value,,,0.893078,

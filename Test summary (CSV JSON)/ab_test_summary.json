@@ -1,0 +1,24 @@
+{
+    "Group A": {
+        "n": 146843,
+        "conversions": 17675,
+        "conversion_rate": 0.1204
+    },
+    "Group B": {
+        "n": 146932,
+        "conversions": 17467,
+        "conversion_rate": 0.1189
+    },
+    "Comparison": {
+        "absolute_diff": -0.0015,
+        "relative_lift_percent": -1.24,
+        "z_score": -1.243,
+        "ztest_p_value": 0.893078,
+        "chi2_stat": 1.531,
+        "chi2_p_value": 0.215945
+    },
+    "Confidence Interval (95%)": {
+        "low": -0.0038,
+        "high": 0.0009
+    }
+}

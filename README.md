@@ -28,16 +28,16 @@ Result: *Variant B did not outperform Variant A*. Conversion was nearly identica
 ## 📈 Visuals & Dashboards  
 
 *Conversion Rate by Group*  
-![Conversion Rate](images/conversion_rate_by_group.png)  
+![Conversion Rate](image/conversion_rate_by_group.png)  
 
 *Conversion KPI View*  
-![Conversion KPI](images/conversion_rate_by_group_kpi.png)  
+![Conversion KPI](image/conversion_rate_by_group_kpi.png)  
 
 *Funnel Analysis by Group*  
-![Funnel](images/funnel_by_group.png)  
+![Funnel](image/funnel_by_group.png)  
 
 *Executive Dashboard Mock (Power BI style)*  
-![Dashboard](images/dashboard_mock.png)  
+![Dashboard](image/dashboard_mock.png)  
 
 ---
 
